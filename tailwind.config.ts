@@ -12,6 +12,12 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        geistMono: "var(--font-geist-mono)",
+      },
+      maxWidth: {
+        58: "58.4375rem",
+      },
     },
   },
   plugins: [],
